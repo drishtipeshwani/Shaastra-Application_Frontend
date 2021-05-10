@@ -1,0 +1,24 @@
+.container {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 15%;
+}
+
+.first-ctn {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.input-ctn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.list {
+  position: absolute;
+  margin-top: 15px;
+  left: 30%;
+  width: 40%;
+  margin-bottom: 10px;
+}
